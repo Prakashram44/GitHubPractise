@@ -9,4 +9,13 @@ public class GitHubPractise {
 	private void deposit() {
 		System.out.println("Deposit");	
 	}	
+	
+	private void indus() {
+		System.out.println("Ind");	
+	}	
+	
+	private void land() {
+		System.out.println("La");	
+	}	
 }
+
