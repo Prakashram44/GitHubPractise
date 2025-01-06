@@ -9,4 +9,14 @@ public class GitHubPractise {
 	private void deposit() {
 		System.out.println("Deposit");	
 	}	
+	
+	private void fixed() {
+		System.out.println("Fixed");	
+	}	
+	
+	private void axis() {
+		System.out.println("Axis");	
+	}	
+	
+	
 }
