@@ -10,6 +10,9 @@ public class GitHubPractise {
 		System.out.println("Deposit");	
 	}	
 	
+
+	
+
 	private void fixed() {
 		System.out.println("Fixed");	
 	}	
@@ -18,5 +21,13 @@ public class GitHubPractise {
 		System.out.println("Axis");	
 	}	
 	
+	private void indus() {
+		System.out.println("Ind");	
+	}	
+	
+	private void land() {
+		System.out.println("La");	
+	}	
 	
 }
+
